@@ -1,0 +1,6 @@
+dataset/training_set
+dataset/test_set
+env/
+vgg16_pretrained.h5
+vgg16_untrained.h5
+my_model.h5

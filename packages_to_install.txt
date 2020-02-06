@@ -1,0 +1,8 @@
+This is an informal list of packages to install in case requirements.txt doesn't cut it for you
+
+matplotlib
+numpy
+tensorflow
+keras
+Pillow
+scipy
