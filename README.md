@@ -14,13 +14,13 @@ Check `requirements.txt` and `packages_to_install.txt` for module information.
 ## Quick start
 
 ### To train: 
-You can change training parameters such as Steps Per Epoch, Batch Size (default 32), Epochs, Validation Steps in the python file.
+You can change training parameters such as Steps Per Epoch, Batch Size (default 32), Epochs, Validation Steps in the python file `pretrained_vgg16_train.py`
 ```shell
 python pretrained_vgg16_train.py
 ```
 
 ### To test 
-You can change the testing image used inside the python file.
+You can change the testing image used inside the python file `pretrained_vgg16_test.py`
 ```shell
 python pretrained_vgg16_test.py
 ```
