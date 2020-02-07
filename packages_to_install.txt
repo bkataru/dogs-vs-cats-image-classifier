@@ -2,7 +2,7 @@ This is an informal list of packages to install in case requirements.txt doesn't
 
 matplotlib
 numpy
-tensorflow
-keras
 Pillow
 scipy
+tensorflow/tensorflow-gpu
+keras
